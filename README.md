@@ -1,3 +1,3 @@
 
 
-{"apps":[{"name":"اغنية البوبجي","imageurl":"https://i.ytimg.com/vi/DVMaOtAGHSQ/maxresdefault.jpg","link":"http://bit.ly/2OnmCJD","desc":null},{"name":"حفظ حالة الواتس ","imageurl":"https://i.ytimg.com/vi/DVMaOtAGHSQ/maxresdefault.jpg","link":"http://bit.ly/2OnmCJD","desc":null}],"success":1}
+{"apps":[{"name":"اغنية البوبجي","imageurl":"https://i.ytimg.com/vi/DVMaOtAGHSQ/maxresdefault.jpg","link":"https://www.youtube.com/watch?v=FkugSouiJ-Y","desc":null},{"name":"pubg ","imageurl":"https://i.ytimg.com/vi/DVMaOtAGHSQ/maxresdefault.jpg","link":"https://www.youtube.com/watch?v=FkugSouiJ-Y","desc":null}],"success":1}
