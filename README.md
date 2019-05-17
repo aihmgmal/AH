@@ -1,3 +1,3 @@
 
-  {"apps":[{"name":"ملصقات واتس اب","imageurl":"https://lh3.googleusercontent.com/60fcBRRO54lH-MMYydWT14GapCM7goNDtaQSUO5antXg5PnRpSCRymewrKUK6y9tx0aP=s360-rw","link":"http://bit.ly/2IK4V7h","desc":null},{"name":"حفظ حالة ","imageurl":"http://bit.ly/2WlkdSl","link":"https://play.google.com/store/apps/details?id=com.abo.jamalsavewastatus","desc":null
+  {"apps":[{"name":"ملصقات مضحكة للواتس اب ","imageurl":"https://lh3.googleusercontent.com/60fcBRRO54lH-MMYydWT14GapCM7goNDtaQSUO5antXg5PnRpSCRymewrKUK6y9tx0aP=s360-rw","link":"http://bit.ly/2IK4V7h","desc":null},{"name":"عاجل عليك  تحديث التطبيق اضفط هنا ","imageurl":"https://lh3.googleusercontent.com/zdhoEw5EyGivzGcwQQePckpZ4VjNULJ7BpxjisSCXrjJmfyUd62mQ4RsQY-nlSYM-g0=s360-rw","link":"http://bit.ly/2Ln0QYF","desc":null
 }],"success":1}
